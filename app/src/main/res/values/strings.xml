@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kepiting Lobster</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="profile">Profile</string>
+    <string name="order">Order</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="user_profile">User Profile</string>
+    <string name="chat">Chat</string>
+    <string name="send">Send</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="invalid_username_password">Invalid Username or Password</string>
+    <string name="username_password_required">Username and Password must be filled</string>
+</resources>
